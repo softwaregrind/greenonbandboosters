@@ -104,7 +104,12 @@ header a:hover {
 
 #showcase img.large {
     width: 600px;
-    height: 776;
+    height: 776px;
+}
+
+#showcase img.small {
+    width: 320px;
+    height: 414px;
 }
 
 /* Footer styles */

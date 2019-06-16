@@ -97,6 +97,16 @@ header a:hover {
     font-size: 20px;
 }
 
+#showcase img.align-center {
+    display: block;
+    margin: 0px auto;
+}
+
+#showcase img.large {
+    width: 600px;
+    height: 776;
+}
+
 /* Footer styles */
 footer {
     background: #35424a;
